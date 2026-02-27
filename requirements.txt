@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+pandas
+thordata-sdk
+python-dotenv
+
